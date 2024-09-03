@@ -2,8 +2,5 @@ asfdsff
 fdf
 dfd
 eee
-<<<<<<< HEAD
 fg"qualquer outra coisa"
-=======
 fg"qualquer coisa"
->>>>>>> branch-teste
